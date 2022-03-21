@@ -1,2 +1,7 @@
 # secondrep
-Informações sobre HTML, CSS e JS
+Inicio dos estudos de Desenvolvimento Web.
+
+Conceitos básicos:
+HTML
+CSS
+JAVASCRIPT
